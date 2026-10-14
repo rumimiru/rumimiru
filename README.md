@@ -1,10 +1,9 @@
 <!-- 🌙 RUMI'S GITHUB PROFILE README -->
 
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Rumi's digital art banner" />
 
-  <h1>𓆩♡𓆪 Hello, I'm Francine Nicole De Guzman</h1>
-  <h3>aka rumimiru / rumi</h3>
+  <h1>Hello! I'm Francine Nicole De Guzman</h1>
+  <h3>known as rumimiru / rumi</h3>
 
   <p>
     <b>Frontend Developer · Creative Coder · Artist</b>
