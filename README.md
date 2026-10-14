@@ -63,7 +63,7 @@ A scrolling web app for indecisive multi-role players. Pick a role, roll a rando
 - 🤝 Agent team compatibility picks
 - 🎵 Music player with a waveform background that reacts to the audio
 
-**Explore the project:** [Valorant Agent Randomizer](https://github.com/rumimiru/Valorant-Agent-Randomizer)
+**Explore the project:** [Valorant Agent Randomizer](https://valo-agent-randomizer.vercel.app/)
 
 ---
 
