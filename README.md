@@ -1,5 +1,5 @@
 <!-- 🌙 RUMI'S GITHUB PROFILE README -->
-<img src="[https://images2.alphacoders.com/756/thumb-1920-756023.jpg](https://i.redd.it/4z0atc4b18he1.png)" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwljo_j5ljpFbwimF1T41mEKs140JVxKBzyKM4uVokNkp3NE1JyZ85cVs&s=10" width="100%" />
 
 <div align="center">
 
