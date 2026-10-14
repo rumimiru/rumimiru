@@ -1,10 +1,13 @@
 <!-- 🌙 RUMI'S GITHUB PROFILE README -->
+<img src="[https://images2.alphacoders.com/756/thumb-1920-756023.jpg](https://i.redd.it/4z0atc4b18he1.png)" width="100%" />
 
 <div align="center">
 
   <h1>Hello! I'm Francine Nicole De Guzman</h1>
   <h3>known as rumimiru / rumi</h3>
 
+ <br/><br/>
+ 
   <p>
     <b>Frontend Developer · Creative Coder · Artist</b>
   </p>
@@ -13,10 +16,9 @@
 
   <br/><br/>
 
-  <img src="https://images2.alphacoders.com/756/thumb-1920-756023.jpg" width="100%" />
 </div>
 
-## ୨୧ About Me
+## About Me
 
 Hii! I'm **Rumi**, a Bachelor of Science in Information Technology student with a passion for design, creativity, and building things on the web.
 
@@ -24,17 +26,17 @@ I'm drawn to frontend development because it lets me combine my artistic side wi
 
 When I'm not coding, I'm probably drawing, playing games, exploring new creative ideas, or imagining projects that I'd love to bring to life. :3
 
-- 🎨 I love designing and expressing myself through art.
-- 💻 I enjoy turning creative ideas into interactive experiences.
-- 🌱 Currently learning **React and Angular**.
-- 🕹️ A gamer with an artistic side.
-- ✨ Always exploring new ways to make my ideas come alive.
+- I love expressing my thoughts through art.
+- I enjoy turning creative ideas into interactive experiences.
+- Currently learning **React and Angular**.
+- I love gaming.
+- Always thinking.
 
-> My goal is simple: let my creativity do the working.
+<i> My goal is simple: let my creativity do the working. </i>
 
 ---
 
-## ୨୧ Tech Stack & Tools
+## Tech Stack & Tools
 
 *Tools I use, explore, and learn along the way.*
 
@@ -46,19 +48,17 @@ When I'm not coding, I'm probably drawing, playing games, exploring new creative
 
 ---
 
-## ୨୧ Featured Project
+## Featured Project
 
 ### 🩺 NursePath
 
 **Project Lead:** Rance Pascua
 
 A clinical reference progressive web application designed for student nurses. It provides vital signs reference ranges, over-the-counter medication lookup, and common nursing calculators.
-
 - 📱 Progressive Web App (PWA)
 - 📴 Works offline after the first load
 - 🩺 Designed to support quick access to clinical references
 - 🏫 Currently under faculty review for adoption at Universidad de Dagupan
-
 **Explore the project:** [block9nurseapp.vercel.app](https://block9nurseapp.vercel.app/)
 
 ---
@@ -67,6 +67,7 @@ A clinical reference progressive web application designed for student nurses. It
 
 - ⚛️ React — building more dynamic user interfaces
 - 🅰️ Angular — expanding my frontend development skills
+- 
 - 🎨 UI/UX Design — improving visual hierarchy and user experience
 - ✨ Creative Coding — bringing artistic ideas to life through code
 
@@ -79,8 +80,8 @@ const rumi = {
   alias: ["rumimiru", "rumi"],
   role: "Frontend Developer",
   interests: ["Design", "Art", "Coding", "Gaming"],
-  currentlyLearning: ["React", "Angular"],
-  goal: "Turn imagination into something real.",
+  currentlyLearning: ["React", "Angular", "Flutter"],
+  goal: "Imagination into something real and impactful",
   motto: "Creativity is immeasurable."
 };
 ```
@@ -100,10 +101,10 @@ const rumi = {
 
   <br/><br/>
 
-  <i>Thanks for stopping by my little corner of GitHub ♡</i>
+  <i>Thanks you for visiting~ </i>
 
   <br/>
 
-  <sub>Made with creativity, curiosity, and a little bit of magic.</sub>
+  <sub>I love stars</sub>
 
 </div>
