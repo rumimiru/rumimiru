@@ -74,7 +74,10 @@ A clinical reference progressive web application designed for student nurses. It
 - ✨ Creative Coding — bringing artistic ideas to life through code
 
 ---
-
+<p>
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　</p>
+   
 ## A Little More About Me
 
 ```js
@@ -90,7 +93,7 @@ const rumi = {
 
 ---
 
-## ୨୧ Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -105,6 +108,10 @@ const rumi = {
 
   <i>Thanks you for visiting~ </i>
 
+<p>
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　</p>
+   
   <br/>
 
   <sub>I love stars</sub>
