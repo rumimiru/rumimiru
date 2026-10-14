@@ -65,7 +65,9 @@ A scrolling web app for indecisive multi-role players. Pick a role, roll a rando
 
 **Explore the project:** [Valorant Agent Randomizer](https://github.com/rumimiru/Valorant-Agent-Randomizer)
 
-### Partnered Project:
+---
+
+## Partnered Project:
 ### 🩺 NursePath
 
 **Project Lead:** Rance Pascua
