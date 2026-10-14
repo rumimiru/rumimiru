@@ -6,8 +6,6 @@
   <h1>Hello! I'm Francine Nicole De Guzman</h1>
   <h3>known as rumimiru / rumi</h3>
 
- <br/><br/>
- 
   <p>
     <b>Frontend Developer · Creative Coder · Artist</b>
   </p>
