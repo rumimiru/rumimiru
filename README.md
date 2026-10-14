@@ -5,7 +5,11 @@
 
   <h1>Hello! I'm Francine Nicole De Guzman</h1>
   <h3>known as rumimiru / rumi</h3>
-
+  
+<p>
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　</p>
+   
   <p>
     <b>Frontend Developer · Creative Coder · Artist</b>
   </p>
@@ -61,17 +65,17 @@ A clinical reference progressive web application designed for student nurses. It
 
 ---
 
-## ୨୧ Currently Exploring
+## Currently Exploring
 
 - ⚛️ React — building more dynamic user interfaces
 - 🅰️ Angular — expanding my frontend development skills
-- 
+- 💙 Flutter — craft beautiful, high-performance cross-platform apps from a single codebase
 - 🎨 UI/UX Design — improving visual hierarchy and user experience
 - ✨ Creative Coding — bringing artistic ideas to life through code
 
 ---
 
-## ୨୧ A Little More About Me
+## A Little More About Me
 
 ```js
 const rumi = {
