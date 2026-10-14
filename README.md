@@ -54,6 +54,18 @@ When I'm not coding, I'm probably drawing, playing games, exploring new creative
 
 ## Featured Project
 
+### 🎲 Valorant Agent Randomizer
+
+A scrolling web app for indecisive multi-role players. Pick a role, roll a random VALORANT agent, and customize which agents are in your pool.
+
+- 🎯 Role-based randomizer (Initiator, Controller, Duelist, Sentinel, or Flex)
+- 🛠️ Customizable agent pool, so you only roll the agents you own
+- 🤝 Agent team compatibility picks
+- 🎵 Music player with a waveform background that reacts to the audio
+
+**Explore the project:** [Valorant Agent Randomizer](https://github.com/rumimiru/Valorant-Agent-Randomizer)
+
+### Partnered Project:
 ### 🩺 NursePath
 
 **Project Lead:** Rance Pascua
